@@ -1,6 +1,6 @@
 Chrona — React + Flask Task Manager
 
-Chrona is a portfolio-ready to-do list built with a React frontend and a Python Flask API. It uses SQLite so tasks remain saved after the browser is closed.
+Chrona is a to-do list built with a React frontend and a Python Flask API. It uses SQLite so tasks remain saved after the browser is closed.
 
 What works
 
